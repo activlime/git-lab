@@ -9,3 +9,5 @@ Vance Lindholm, vlindholm@usc.edu http://github.com/vancel
 - Tues 2pm
 - image: spinnakr.com/blog/wp-content/uploads/2013/02/Founding-Father-Octocat.jpg
 
+###New Features###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
